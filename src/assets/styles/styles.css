@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    background: url('https://drscdn.500px.org/photo/55627558/q%3D90_m%3D2048/v2?sig=f90babf9458312fa41126ae02be4cd4daebd8f84b2034e740cc45c562aa3aa87') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 100px 15px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.description {
+    font-size: 22px;
+    text-align: justify;
+}
+
+
+.section {
+    margin: 0 auto;
+    padding: 40px 15px;
+}
+
+.section-title {
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 16px;
+}
+
+.card-body {
+    background-color: aliceblue;
+    height: 130px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+}
