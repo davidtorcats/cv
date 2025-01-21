@@ -21,6 +21,6 @@ Me encanta transformar ideas en realidad digital. Con experiencia en HTML, CSS y
 
 ## Contacto 
 
-Puedes encontrarme en [tu enlace de contacto/redes sociales].
+Puedes encontrarme en LinkeIn como: [David Torcates](https://www.linkedin.com/in/davidtorcates/)
 
 [Enlace a tu portafolio: https://davidtorcats.github.io/cv/](https://davidtorcats.github.io/cv/)
